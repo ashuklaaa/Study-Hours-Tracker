@@ -1,0 +1,6 @@
+{
+  "name": "Study Hour Tracker",
+  "description": "A modern, highly-polished dashboard to track study hours, set daily goals, view subject-wise insights, and complete study streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
